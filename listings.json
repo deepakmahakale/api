@@ -3,12 +3,13 @@
     "id": 1,
     "title": "Red jacket for sale",
     "price": 100,
-    "image": "https://github.com/deepakmahakale/api/blob/master/assets/jacket.jpg"
+    "image": "https://raw.githubusercontent.com/deepakmahakale/api/master/assets/jacket.jpg"
+    
   },
   {
     "id": 2,
     "title": "Couch in great condition",
     "price": 1000,
-    "image": "https://github.com/deepakmahakale/api/blob/master/assets/couch.jpg"
+    "image": "https://raw.githubusercontent.com/deepakmahakale/api/master/assets/couch.jpg"
   },
 ]
