@@ -20,5 +20,27 @@
       }
     ],
     "categoryId": 2
+  },
+  {
+    "id": 3,
+    "title": "Yellow chair",
+    "price": 1000,
+    "images": [ 
+      { 
+        "url": "https://raw.githubusercontent.com/deepakmahakale/api/master/assets/yellow-chair.jpg"
+      }
+    ],
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "title": "Paintings set",
+    "price": 1000,
+    "images": [ 
+      { 
+        "url": "https://raw.githubusercontent.com/deepakmahakale/api/master/assets/paintings.jpg"
+      }
+    ],
+    "categoryId": 3
   }
 ]
